@@ -102,7 +102,7 @@ curl -X POST \
   https://api.bitkub.com/api/market/place-ask \
   -H 'accept: application/json' \
   -H 'content-type: application/json' \
-  -H 'x-btk-apikey: 6da634977495306b2206eee7772532cb' \
+  -H 'x-btk-apikey: 4d6419ef399caa867077b432980733c3' \
   -d '{"sym":"THB_BTC","amt":0.1,"rat":10000,"typ":"limit","ts":1529490685,"sig":"d0c66fabb816c46953270e4a442836ca449711e143c8658dd03103c90b2d0fb7"}'
 ```
 
